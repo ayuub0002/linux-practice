@@ -7,7 +7,7 @@
 - **Host:** bandit.labs.overthewire.org
 - **Port:** 2220
 - **Username:** bandit7
-- **Password:** HKBPTKQnIay4Fw76bEy8PVxKEDQRKTzs
+- **Password:** morbNTDkSW6jIlUc0ymOdMaLnOlFVAaj
 
 ## Commands Used
 ```bash
